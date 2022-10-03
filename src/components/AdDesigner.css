@@ -1,0 +1,39 @@
+.cont {
+  height: 200px;
+  width: 300px;
+  border: 2px solid black;
+  padding: 5px 5px 5px 5px;
+  text-align: center;
+}
+
+.cont p {
+  font-family: 'Caveat', cursive;
+  font-size: 35px;
+}
+
+.darkClass {
+  color: white;
+  background-color: black;
+}
+
+.flavorButtons button {
+    margin: 5px;
+    color: white;
+    background-color: darkblue;
+}
+
+.button {
+    margin: 5px;
+    color: white;
+    background-color: darkblue;
+}
+
+.flavor {
+    font-family: 'Caveat', cursive;
+}
+
+.AdDesigner h1 {
+  font-size: 50px;
+  font-style: italic;
+  font-family: 'Caveat', cursive;
+}

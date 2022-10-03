@@ -1,0 +1,21 @@
+.Votes {
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    top: 140px;
+    right: 200px
+    
+
+
+}
+
+.Votes h1 {
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+}
+
+.Votes button {
+    display: flex;
+    flex-direction: row;
+    width: 50%
+}
